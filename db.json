@@ -1,0 +1,40 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Thrash Metal",
+            "descricao": "Caracterizado por seu ritmo rápido e agressividade.",
+            "cor": "#6BD1FF"
+        },
+        {
+            "id": 2,
+            "nome": "Death Metal",
+            "descricao": "Vocais urrados e gritos, bateria bruta e guitarras distrocidas.",
+            "cor": "#00C86F"
+        },
+        {
+            "id": 3,
+            "nome": "Metal em Português",
+            "descricao": "Metal cantado em língua portuguesa.",
+            "cor": "#9cd33b"
+        },
+        {
+            "id": 4,
+            "nome": "Heavy Metal Clássico",
+            "descricao": "O heavy metal é a forma mais extrema em termos de volume e teatralidade.",
+            "cor": "orange"
+        },
+        {
+            "id": 5,
+            "nome": "Underground",
+            "descricao": "Bandas de metal underground.",
+            "cor": "red"
+        },
+        {
+            "id": 6,
+            "nome": "Documentários",
+            "descricao": "Documentarios sobre o metal e afins.",
+            "cor": "#6b5be2"
+        }
+    ]
+}
